@@ -44,7 +44,7 @@ To set up and run the Developer Collaboration Web App locally, follow these step
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/developer-collab-web-app.git
+   git clone https://github.com/bimalstha23/CodeVerse.git
 
 
 
